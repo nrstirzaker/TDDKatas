@@ -2,7 +2,7 @@ package com.disney.ipbt.tddkatas;
 
 public enum DateStatus {
 	
-	NULL(null),
+	NOT_SET(0),
 	FIRM(1),
 	TBD(2);
 	
