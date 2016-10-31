@@ -4,3 +4,6 @@ RemoteSystemsTempFiles/
 .classpath
 .project
 .settings/
+.gradle/
+.recommenders/
+gradle/

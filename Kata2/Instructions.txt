@@ -1,0 +1,20 @@
+You have a data class called ProcessData which holds 3 values
+
+processedId : long
+processStatus : ready,processed,failed
+startDate : date
+
+
+
+
+You need to create a function that given one or many ProcessData objects returns a Map of type Map<Long,List<ProcessData>>
+where the Long value is the processId of all the ProcessData objects in the List. 
+This means that processId is not unique.
+
+
+Write your tests first you will need to us the JUnitParams library 
+
+
+
+
+
